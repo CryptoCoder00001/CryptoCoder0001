@@ -15,5 +15,5 @@ I am a **Senior Software Developer and Entrepreneur** with over 3 years of exper
 ---
 
 ### 📫 Connect with Me
-* **Location:** Uttarakhand, India.
+email-ajayramola0999@gmail.com
 * **Focus:** Open to collaborations on Blockchain (Web3) and high-performance server-side projects.
